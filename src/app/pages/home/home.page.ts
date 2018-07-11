@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  public tests = new Array(20);
+
 }
